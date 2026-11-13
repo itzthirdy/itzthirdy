@@ -39,7 +39,7 @@
 * ⚙️ **Playstyle:** **Backend-First & IT Systems Thinker** — I focus on server logic, APIs, data flow, and troubleshooting, while pairing with **AI (Gemini)** to accelerate UI/frontend delivery and ship complete applications
 * 📍 **Spawn Point:** Manila, Philippines *(Open to Remote & Relocation)*
 * 💬 **Languages:**
-  * `English`  ██████████ 100%
+  * `English`    ██████████ 100%
   * `Filipino` ██████████ 100%
 
 <br clear="right"/>
